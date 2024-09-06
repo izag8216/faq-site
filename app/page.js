@@ -38,7 +38,7 @@ export default function Home() {
     <div className="bg-white">
       <div className="mx-auto max-w-7xl py-16 px-4 sm:py-24 sm:px-6 lg:px-8">
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl lg:text-6xl">Frequently Asked Questions</h1>
-        <p className="mt-5 text-xl text-gray-500">Can't find the answer you're looking for? Reach out to our customer support team.</p>
+        <p className="mt-5 text-xl text-gray-500">Can&apos;t find the answer you&apos;re looking for? Reach out to our customer support team.</p>
         
         {/* Search and filter inputs */}
         <div className="mt-8 flex space-x-4">
